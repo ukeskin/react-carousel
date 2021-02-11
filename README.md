@@ -1,4 +1,4 @@
-## Quiz App
+## React Carousel App
 
 ```
 npm install
